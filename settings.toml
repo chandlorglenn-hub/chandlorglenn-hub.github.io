@@ -140,60 +140,19 @@ outlet = ""
 # slideshow. Write captions after the | symbol (optional).
 
 [[work]]
-title = ""
-description = ""
-date = ""
-category = ""
-photos = 
-
-title = ""
-description = ""
-date = ""
-category = ""
-photos = 
-
-title = ""
-description = ""
-date = ""
-category = ""
-photos = 
-
-title = ""
-description = ""
-date = ""
-category = ""
-photos = 
-
-title = ""
-description = ""
-date = ""
-category = ""
-photos = 
-
-title = ""
-description = ""
-date = ""
-category = ""
-photos = 
-
-title = ""
-description = ""
-date = ""
-category = ""
-photos = 
-
-title = ""
-description = ""
-date = ""
-category = ""
-photos = 
-
-title = ""
-description = ""
-date = ""
-category = ""
+title = "Photo Essay"
+description = "Photos for Journ 215 Fall 2026"
+date = "Weekend of September 11-13 2026"
+category = "Photo Essay"
 photos = [
-  
+  "photos/1.Repeating_Pattern.jpg|Repeating pattern",
+  "photos/2.Different_Perspective.jpg|Different perspective",
+  "photos/3.Rule_of_Thirds.jpg|Rule of thirds",
+  "photos/4.Balance_and_Symmetry.jpg|Balance and symmetry",
+  "photos/5.Foreground_Background_Relationship.jpg|Foreground/background relationship",
+  "photos/6.Window_lit_Portrait.jpg|Window-lit portrait",
+  "photos/7.Framing.jpg|Framing",
+  "photos/8.Moment_in_Time.jpg|Moment in time",
 ]
 
 # ── An audio story stored on your site ──────────────────────
