@@ -143,7 +143,7 @@ outlet = ""
 title = "Photo Essay"
 description = "Photos for Journ 215 Fall 2026"
 date = "Weekend of September 11-13 2026"
-category = "Photo Essay"
+category = "Photos"
 photos = [
   "photos/1.Repeating_Pattern.jpg|Repeating pattern",
   "photos/2.Different_Perspective.jpg|Different perspective",
