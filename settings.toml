@@ -99,6 +99,15 @@ footer = "stay cool"
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
+
+title = "Celebrating queer culture in the Contra Costa County seat"
+description = ""
+url = "https://richmondconfidential.org/2026/09/20/celebrating-queer-culture-in-the-contra-costa-county-seat/"
+image = ""
+date = "September 20, 2026"
+category = "Journalism"
+outlet = "https://richmondconfidential.org/"
+
 title = "Labor Unions say Ice Out"
 description = "This is a photo essay made by Chandlor Henderson"
 url = "https://eugeneweekly.com/2026/03/11/labor-unions-say-ice-out-feb-28/"
@@ -107,23 +116,6 @@ date = "March 11, 2026"
 category = "Journalism"
 outlet = "https://eugeneweekly.com/"
 
-[[work]]
-title = ""
-description = ""
-url = ""
-image = ""
-date = ""
-category = ""
-outlet = "The San Francisco Chronicle"
-
-[[work]]
-title = ""
-description = ""
-url = ""
-image = ""
-date = ""
-category = ""
-outlet = ""
 
 # This one has no image on purpose — the site still handles it gracefully.
 [[work]]
